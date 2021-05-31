@@ -1,0 +1,14 @@
+body {
+    background-color: #111111;
+}
+
+.psicanv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12.5%;
+}
+
+.psicanv #psicanv {
+    background-color: #ffffff;
+}
